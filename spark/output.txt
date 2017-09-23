@@ -1,0 +1,46 @@
+******START PROCESS ANALYZER********
+======COMPUTE FREQUENCIES=============
+Error Resposnes: 
+(404,5)
+(200,1273)
+(0,139)
+(302,6)
+(401,123)
+
+======ACCESS MORE THAN================
+(cr020r01-3.sac.overture.com,44)
+(ip68-228-43-49.tc.ph.cox.net,22)
+(ts04-ip92.hevanet.com,28)
+(,139)
+(market-mail.panduit.com,29)
+(10.0.0.153,188)
+(64.242.88.10,452)
+(h24-70-69-74.ca.shawcable.net,32)
+(h24-71-236-129.ca.shawcable.net,36)
+
+=======ENDPOINT REQUEST===========
+(/favicon.ico,28)
+(/robots.txt,27)
+(/razor.html,23)
+(,139)
+(/twiki/pub/TWiki/TWikiLogos/twikiRobot46x50.gif,32)
+(/,31)
+(/twiki/bin/view/Main/WebHome,41)
+
+=======TOP ENDPOINT REQUEST===========
+(,139)
+(/twiki/bin/view/Main/WebHome,41)
+(/twiki/pub/TWiki/TWikiLogos/twikiRobot46x50.gif,32)
+(/,31)
+(/favicon.ico,28)
+(/robots.txt,27)
+(/razor.html,23)
+(/twiki/bin/view/Main/SpamAssassinTaggingOnly,18)
+(/twiki/bin/view/Main/SpamAssassinAndPostFix,17)
+(/cgi-bin/mailgraph.cgi/mailgraph_2_err.png,16)
+
+=======AVERAGE SIZE============
+(Size of Avg:,7078)
+
+******STOP PROCESS*****************
+Execution Time : 31.202
